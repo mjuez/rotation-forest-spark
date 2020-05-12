@@ -1,6 +1,6 @@
 # Rotation Forest for Big Data
 
-The Spark implementation of the well-known [Rotation Forest](https://ieeexplore.ieee.org/document/1677518)[[1]](#ref_1) ensemble classifier for its usage in Big Data environments.
+The Spark implementation of the well-known [Rotation Forest](https://ieeexplore.ieee.org/document/1677518) [[1]](#ref_1) ensemble classifier for its usage in Big Data environments.
 
 The paper is currently under review process. Code will be available here and in Spark Packages at the time the publication is accepted.
 
@@ -16,7 +16,7 @@ This research has been conducted by [Mario Juez-Gil](https://scholar.google.es/c
 
 ---
 
-## Aknowledgments
+## Aknowledgements
 
 This work was supported through project TIN2015-67534-P (MINECO/FEDER, UE) of the *Ministerio de Economía y Competitividad* of the Spanish Government, project BU085P17 (JCyL/FEDER, UE) of the *Junta de Castilla y León* (both projects co-financed through European Union FEDER funds), and by the *Consejería de Educación* of the *Junta de Castilla y León* and the European Social Fund through a pre-doctoral grant (EDU/1100/2017).
 This material is based upon work supported by Google Cloud.
