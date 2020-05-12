@@ -6,7 +6,7 @@ The paper is currently under review process. Code will be available here and in 
 
 ## Authors
 
-This research has been conducted by [Mario Juez-Gil](mailto:mariojg@ubu.es), [Álvar Arnaiz-González](https://scholar.google.es/citations?user=_9C0tpMAAAAJ&hl=es), [Juan J. Rodriguez](https://scholar.google.es/citations?user=p4m8t6oAAAAJ&hl=es), [Carlos López-Nozal](https://scholar.google.es/citations?user=JAS4N-oAAAAJ&hl=es), and [César García-Osorio](https://scholar.google.es/citations?user=X08I-_4AAAAJ&hl=es). All from [ADMIRABLE](https://www.admirable-ubu.es) research group of the University of Burgos.
+This research has been conducted by [Mario Juez-Gil](https://scholar.google.es/citations?user=W8RVMNEAAAAJ&hl=es&oi=ao), [Álvar Arnaiz-González](https://scholar.google.es/citations?user=_9C0tpMAAAAJ&hl=es), [Juan J. Rodriguez](https://scholar.google.es/citations?user=p4m8t6oAAAAJ&hl=es), [Carlos López-Nozal](https://scholar.google.es/citations?user=JAS4N-oAAAAJ&hl=es), and [César García-Osorio](https://scholar.google.es/citations?user=X08I-_4AAAAJ&hl=es). All from [ADMIRABLE](https://www.admirable-ubu.es) research group of the University of Burgos.
 
 ---
 
