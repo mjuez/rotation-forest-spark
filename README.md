@@ -1,5 +1,7 @@
 # Rotation Forest for Big Data
 
+[https://doi.org/10.1016/j.inffus.2021.03.007](https://doi.org/10.1016/j.inffus.2021.03.007)
+
 Mario Juez-Gil <<mariojg@ubu.es>>, Álvar Arnaiz-González, Juan J. Rodríguez, Carlos López-Nozal, and César Ignacio García-Osorio.
 
 **Affiliation:**\
@@ -24,8 +26,22 @@ The implementation is available in [this repository](https://github.com/mjuez/ro
 
 ## Aknowledgements
 
-This work was supported through project TIN2015-67534-P (MINECO/FEDER, UE) of the *Ministerio de Economía y Competitividad* of the Spanish Government, project BU085P17 (JCyL/FEDER, UE) of the *Junta de Castilla y León* (both projects co-financed through European Union FEDER funds), and by the *Consejería de Educación* of the *Junta de Castilla y León* and the European Social Fund through a pre-doctoral grant (EDU/1100/2017). The project leading to these results has received also funding from "la Caixa" Foundation, under agreement LCF/PR/PR18/51130007. This material is based upon work supported by Google Cloud.
+This work was supported through project TIN2015-67534-P (MINECO/FEDER, UE) of the *Ministerio de Economía y Competitividad* of the Spanish Government, projects BU085P17 and BU055P20 (JCyL/FEDER, UE) of the *Junta de Castilla y León* (both projects co-financed through European Union FEDER funds), and by the *Consejería de Educación* of the *Junta de Castilla y León* and the European Social Fund through a pre-doctoral grant (EDU/1100/2017). The project leading to these results has received also funding from "la Caixa" Foundation, under agreement LCF/PR/PR18/51130007. This material is based upon work supported by Google Cloud.
 
 ## Citation policy
 
-The paper is currently accepeted on Information Fusion journal, and pending of publication. Citation policy will be updated as soon as it is published.
+Please cite this research as:
+
+```
+@ARTICLE{juezgil2021rotfbd,
+title = "Rotation Forest for Big Data",
+author = "Mario Juez-Gil and Álvar Arnaiz-González and Juan J. Rodríguez and Carlos López-Nozal and César García-Osorio",
+journal = "Information Fusion",
+year = "2021",
+volume = "",
+issn = "1566-2535",
+doi = "https://doi.org/10.1016/j.inffus.2021.03.007",
+url = "https://www.sciencedirect.com/science/article/pii/S1566253521000634",
+keywords = "Rotation Forest, Random Forest, Ensemble learning, Machine learning, Big Data, Spark",
+}
+```
