@@ -34,16 +34,17 @@ Please cite this research as:
 
 ```
 @ARTICLE{juezgil2021rotfbd,
-title = "Rotation Forest for Big Data",
-author = "Mario Juez-Gil and Álvar Arnaiz-González and Juan J. Rodríguez and Carlos López-Nozal and César García-Osorio",
-journal = "Information Fusion",
-year = "2021",
-month = "oct",
-volume = "74",
-pages = "39-49",
-issn = "1566-2535",
-doi = "https://doi.org/10.1016/j.inffus.2021.03.007",
-url = "https://www.sciencedirect.com/science/article/pii/S1566253521000634",
-keywords = "Rotation Forest, Random Forest, Ensemble learning, Machine learning, Big Data, Spark",
+title = {Rotation Forest for Big Data},
+author = {Juez-Gil, Mario and Arnaiz-Gonz{\'a}lez, {\'A}lvar and Rodr{\'\i}guez, Juan J and L{\'o}pez-Nozal, Carlos and Garc{\'\i}a-Osorio, C{\'e}sar},
+journal = {Information Fusion},
+year = {2021},
+month = {oct},
+volume = {74},
+pages = {39-49},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2021.03.007},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253521000634},
+keywords = {Rotation Forest, Random Forest, Ensemble learning, Machine learning, Big Data, Spark},
+publisher={Elsevier}
 }
 ```
